@@ -44,7 +44,7 @@ let result=findCountry(params.country_name);
             {
                result ?(
                     <>
-                      <h1 >Country Name:{result.name}</h1>
+                      <h1>Country Name:{result.name}</h1>
             <h1>Country Capital:{result.capital}</h1>
             <h1>Country Population:{result.population}</h1>
                     </>
